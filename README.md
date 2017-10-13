@@ -1,4 +1,15 @@
 # TastyCity Server
 Web server for TastyCity
 
-test
+## APIs
+`
+/city/:id
+`
+
+`
+/item/:id
+`
+
+`
+/list/:id
+`
