@@ -1,9 +1,50 @@
 {
-  "list": [
+  "cities": [
+    {
+      "id": "shanghai",
+      "name": "上海"
+    },
+    {
+      "id": "suzhou",
+      "name": "苏州"
+    }
+  ],
+  "items": [
     {
       "id": 1,
-      "name": "test name",
-      "address": "test address"
+      "name": "name_1",
+      "address": "address_1",
+      "city": "shanghai"
+    },
+    {
+      "id": 2,
+      "name": "name_2",
+      "address": "address_2",
+      "city": "shanghai"
+    },
+    {
+      "id": 3,
+      "name": "name_3",
+      "address": "address_3",
+      "city": "shanghai"
+    },
+    {
+      "id": 4,
+      "name": "name_4",
+      "address": "address_4",
+      "city": "suzhou"
+    }
+  ],
+  "lists": [
+    {
+      "id": 1,
+      "name": "list_1",
+      "items": [1, 2]
+    },
+    {
+      "id": 2,
+      "name": "list_2",
+      "items": [3, 4]
     }
   ]
 }

@@ -1,2 +1,2 @@
-# tasty-city-server
+# TastyCity Server
 Web server for TastyCity
